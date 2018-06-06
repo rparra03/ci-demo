@@ -1,5 +1,5 @@
 /*
-test commit and pull request
+test commit and pull request v2 test
 */
 global without sharing class DragDropFileUploadController {
 	public DragDropFileUploadController(ApexPages.StandardController sc)
